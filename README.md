@@ -21,6 +21,9 @@ git clone the repository and type following code in terminal: 'npm i', 'npm i in
 
 ## Usage
 
+for test, open terminal and login your sql account in vscode:
+run 'mysql -u yourusername -p yourpassword'
+run 'source ./db/schema.sql', 'source ./db/seeds.sql' then exit
 run 'node employeemanager' in terminal
 
 ## License
